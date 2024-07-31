@@ -10,8 +10,3 @@ Data Extraction: Extracts product name, price, ingredients, and source URL from 
 Multiple Product Categories: Supports scraping for various skin care product categories including face wash, face oil, serums, cleansers, creams, sunscreen, and toners.
 Output: Generates a CSV file (skin-care.csv) containing collected data for further analysis.
 
-
-Acknowledgements:
-Selenium WebDriver
-Beautiful Soup
-WebDriver Manager
